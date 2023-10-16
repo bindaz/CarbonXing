@@ -870,7 +870,7 @@
               "text-align": "left"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#edefeb",
+              "color": "#ffd7ef",
               "text-align": "left"
             },
             ".mbr-text, .mbr-section-btn P": {
